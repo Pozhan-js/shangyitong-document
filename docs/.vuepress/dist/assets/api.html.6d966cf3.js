@@ -1,0 +1,1 @@
+const t={key:"v-7e7b467b",path:"/intro/api.html",title:"\u63A5\u53E3\u6587\u6863",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[{level:2,title:"\u6D4B\u8BD5\u63A5\u53E3",slug:"\u6D4B\u8BD5\u63A5\u53E3",children:[]}],git:{updatedTime:1653904861e3,contributors:[{name:"xiongjian",email:"webjsforyou@gmail.com",commits:2}]},filePathRelative:"intro/api.md"};export{t as data};

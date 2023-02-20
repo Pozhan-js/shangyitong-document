@@ -1,0 +1,1 @@
+const t={key:"v-32a3c23e",path:"/intro/address.html",title:"\u9879\u76EE\u5730\u5740",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1654074358e3,contributors:[{name:"xiongjian",email:"webjsforyou@gmail.com",commits:1}]},filePathRelative:"intro/address.md"};export{t as data};
